@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @khevin2<br>- 👀 I’m interested in JavaScript, React, and MERN. <br>- 🌱 I’m currently learning Python Flask and Solidity<br>- 💞️ I’m looking to collaborate on Solidity projects<br>- 📫 How to reach me cyusa.khevin100@gmail.com
+- 👋 Hi, I’m @khevin2<br>- 👀 I’m interested in JavaScript, Java an Python. <br>- 🌱 I’m currently learning Python Flask and Solidity<br>- 💞️ I’m looking to collaborate on Solidity projects<br>- 📫 How to reach me cyusa.khevin100@gmail.com
 
 
 ## 🌐 Socials:
