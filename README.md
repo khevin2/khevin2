@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @khevin2<br>- 👀 I’m interested in JavaScript, Java and Python. <br>- 🌱 I’m currently experienced with Python Flask, Spring Boot, NestJS and Solidity<br>- 💞️ I’m looking to collaborate on Solidity projects<br>- 📫 How to reach me cyusa.khevin100@gmail.com
+- 👋 Hi, I’m @khevin2<br>- 👀 I’m interested in JavaScript, Java and Python. <br>- 🌱 I’m currently experienced with Python Flask, Spring Boot, NestJS, next.JS and Solidity<br>- 💞️ I’m looking to collaborate on Solidity projects<br>- 📫 How to reach me cyusa.khevin100@gmail.com
 
 
 ## 🌐 Socials:
